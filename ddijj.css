@@ -186,7 +186,6 @@ img {
   width: 90%;/*右側に隙間を作る（閉じるカバーを表示）*/
   max-width: 330px;/*最大幅（調整してください）*/
   height: 100%;
-  background: #fff;/*背景色*/
   transition: .3s ease-in-out;/*滑らかに表示*/
   -webkit-transform: translateX(-105%);
   transform: translateX(-105%);/*左に隠しておく*/
@@ -203,9 +202,9 @@ img {
   transform: translateX(0%);/*中身を表示（右へスライド）*/
   box-shadow: 6px 0 25px rgba(0,0,0,.15);
 }
-#nav-content{
-  background-color:#03A9F4;
-}
+ #nav-content{
+   background-color:#03A9F4;
+ }
 @media screen and (min-width:650px) {
   #nav-open {
     display:none;
