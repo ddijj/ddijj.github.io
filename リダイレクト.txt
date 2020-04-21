@@ -1,0 +1,4 @@
+<link rel="canonical" href="https://ddijj.github.io/k-1/min" />
+    <script type="text/javascript">
+      document.location.href = "https://ddijj.github.io/k-1/min";
+    </script>
