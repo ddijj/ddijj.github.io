@@ -1,12 +1,11 @@
-h1
+h1.lest
 {
-  position: relative;
-  padding: 0.3em 0.5em;
-  background: -webkit-linear-gradient(to top, rgb(137, 184, 255), #c5ceff);
-  background: linear-gradient(to top, rgb(137, 184, 255), #c5ceff);
-  color: #495193;
+  padding: 0.5em;
+  color: #010101;
+  background: #eaf3ff;
+  border-bottom: solid 3px #516ab6;
 }
-h2.lest
+h2
 {
   padding: 0.5em;
   color: #010101;
