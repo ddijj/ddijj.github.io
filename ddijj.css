@@ -9,9 +9,9 @@ h1.lest
 h2.d{
   padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
   color: #494949;/*文字色*/
-  background: #f5f5f5;/*背景色*/
+  background: #c0c0c0;/*背景色*/
   border-left: solid 5px #6495ed;/*左線*/
-  border-bottom: solid 3px #dcdcdc;/*下線*/
+  border-bottom: solid 3px #a9a9a9;/*下線*/
   width: 70%;
 
 }
