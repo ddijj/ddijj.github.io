@@ -6,7 +6,7 @@ h1.lest
   border-bottom: solid 3px #516ab6;
   font-size: 160%;
 }
-h3.e{
+h3{
   padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
   background: #eaf3ff;/*背景色*/
   border-left: solid 5px #6495ed;/*左線*/
