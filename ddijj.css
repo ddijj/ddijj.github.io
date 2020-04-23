@@ -240,4 +240,13 @@ img {
     background-color:#03A9F4;
     width: 20%
   }
+  h1.lest
+  {
+    padding: 0.5em;
+    color: #010101;
+    background: #eaf3ff;
+    border-bottom: solid 3px #516ab6;
+    font-size: 160%;
+    width: 100%
+  }
 }
