@@ -19,6 +19,7 @@ h2.d {
   color: #494949;/*文字色*/
   background: #eaf3ff;/*背景色*/
   border-left: solid 5px #c0c0c0;/*左線*/
+  width: 22.5%;
 }
 h2.lest
 {
