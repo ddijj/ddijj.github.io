@@ -28,6 +28,17 @@ h2.lest
   background: #eaf3ff;
   border-bottom: solid 3px #516ab6;
 }
+ul, ol {
+  color: #668ad8;
+  border: double 5px #668ad8;/*二重線 太さ 色*/
+  background: #f1f8ff;
+  padding: 0.5em 0.5em 0.5em 2em;
+}
+
+ul li, ol li {
+  line-height: 1.5;
+  padding: 0.5em 0;
+}
 .box10 {
     padding: 0.5em 1em;
     margin: 2em 0;
