@@ -37,7 +37,6 @@ ul.a, ol {
   border: double 5px #668ad8;/*二重線 太さ 色*/
   background: #f1f8ff;
   padding: 0.5em 0.5em 0.5em 2em;
-  width: 33%;
 }
 
 ul.a li, ol li {
