@@ -5,6 +5,7 @@ h1.lest
   background: #eaf3ff;
   border-bottom: solid 3px #516ab6;
   font-size: 160%;
+  width: 100%
 }
 h3{
   padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
@@ -122,7 +123,7 @@ blockquote cite {
   .left{
     display: inline-block;
     float: left;
-    width: 70%
+    width: 100%
   }
   .reft2{
     display: block;
@@ -247,6 +248,10 @@ img {
     background: #eaf3ff;
     border-bottom: solid 3px #516ab6;
     font-size: 160%;
+  }
+  .left{
+    display: inline-block;
+    float: left;
     width: 100%
   }
 }
