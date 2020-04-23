@@ -5,7 +5,7 @@ h1.lest
   background: #eaf3ff;
   border-bottom: solid 3px #516ab6;
   font-size: 160%;
-  width: 100%
+  width: 520px;
 }
 h3{
   padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
@@ -20,7 +20,7 @@ h2.d {
   color: #494949;/*文字色*/
   background: #eaf3ff;/*背景色*/
   border-left: solid 5px #c0c0c0;/*左線*/
-  width: 500px;
+  width: 450px;
 }
 
 h2.lest
@@ -123,7 +123,7 @@ blockquote cite {
   .left{
     display: inline-block;
     float: left;
-    width: 100%
+    width: 70%
   }
   .reft2{
     display: block;
@@ -240,18 +240,5 @@ img {
     float: right;
     background-color:#03A9F4;
     width: 20%
-  }
-  h1.lest
-  {
-    padding: 0.5em;
-    color: #010101;
-    background: #eaf3ff;
-    border-bottom: solid 3px #516ab6;
-    font-size: 160%;
-  }
-  .left{
-    display: inline-block;
-    float: left;
-    width: 70%
   }
 }
