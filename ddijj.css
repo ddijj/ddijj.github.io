@@ -5,6 +5,7 @@ h1.lest
   background: #eaf3ff;
   border-bottom: solid 3px #516ab6;
   font-size: 160%;
+  width: 700px;
 }
 h3{
   padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
