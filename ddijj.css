@@ -29,7 +29,7 @@ h2.lest
   background: #eaf3ff;
   border-bottom: solid 3px #516ab6;
 }
-ul, ol {
+ul.a, ol {
   color: #668ad8;
   border: double 5px #668ad8;/*二重線 太さ 色*/
   background: #f1f8ff;
@@ -37,7 +37,7 @@ ul, ol {
   width: 33%;
 }
 
-ul li, ol li {
+ul.a li, ol li {
   line-height: 1.5;
   padding: 0.5em 0;
 }
