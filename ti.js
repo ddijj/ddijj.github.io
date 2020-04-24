@@ -26,8 +26,10 @@ a5.innerHTML = '' ;
 var a6 = document.getElementById("a6");
 a6.innerHTML = '' ;
 //ハンバーガーメニュー6
+
+
 var a7 = document.getElementById("a7");
-a7.innerHTML = '' ;
+a7.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
 //ハンバーガーメニュー7
 var a8 = document.getElementById("a8");
 a8.innerHTML = '' ;
