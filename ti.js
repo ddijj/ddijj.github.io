@@ -5,6 +5,9 @@ img.innerHTML = '  <a href="https://ddijj.github.io/" class="samn"><img src="htt
 
 
 //ハンバーガーメニュー
+var link = document.getElementById("link");
+link.innerHTML = '<div class="up"><h2 class="rest">リンク集</h2></div><div class="nup"><div class="box10"><p><a href="https://scratch.mit.edu/users/ddijj/" style="color:#000000">筆者のScratch</a></p></div>' ;
+//ハンバーガーメニュー0
 var a1 = document.getElementById("a1");
 a1.innerHTML = '' ;
 //ハンバーガーメニュー1
