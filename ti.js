@@ -45,44 +45,6 @@ var a12 = document.getElementById("a12");
 a12.innerHTML = '' ;
 //ハンバーガーメニュー12
 
-//サイドメニュー
-var b1 = document.getElementById("b1");
-b1.innerHTML =   '' ;
-//サイドメニュー1
-var b2 = document.getElementById("b2");
-b2.innerHTML = '' ;
-//サイドメニュー2
-var b3 = document.getElementById("b2");
-b2.innerHTML = '' ;
-//サイドメニュー3
-var b4 = document.getElementById("b4");
-b4.innerHTML =   '' ;
-//サイドメニュー4
-var b5 = document.getElementById("b5");
-b5.innerHTML = '' ;
-//サイドメニュー5
-var b3 = document.getElementById("b6");
-b6.innerHTML = '' ;
-//サイドメニュー6
-var b7 = document.getElementById("b7");
-b7.innerHTML =   '' ;
-//サイドメニュー7
-var b8 = document.getElementById("b8");
-b9.innerHTML = '' ;
-//サイドメニュー8
-var b9 = document.getElementById("b9");
-b9.innerHTML = '' ;
-//サイドメニュー9
-var b10 = document.getElementById("b10");
-b10.innerHTML =   '' ;
-//サイドメニュー10
-var b11 = document.getElementById("b11");
-b11.innerHTML = '' ;
-//サイドメニュー11
-var b12= document.getElementById("b12");
-b12.innerHTML = '' ;
-//サイドメニュー12
-
 //カテゴリ
 var c1= document.getElementById("b12");
 b12.innerHTML = '' ;
