@@ -82,3 +82,23 @@ b11.innerHTML = '' ;
 var b12= document.getElementById("b12");
 b12.innerHTML = '' ;
 //サイドメニュー12
+
+//カテゴリ
+var c1= document.getElementById("b12");
+b12.innerHTML = '' ;
+//カテゴリ1
+var c2= document.getElementById("b12");
+b12.innerHTML = '' ;
+//カテゴリ3
+var c3= document.getElementById("b12");
+b12.innerHTML = '' ;
+//カテゴリ2
+var c4= document.getElementById("b12");
+b12.innerHTML = '' ;
+//カテゴリ4
+var c5= document.getElementById("b12");
+b12.innerHTML = '' ;
+//カテゴリ5
+var c6= document.getElementById("b12");
+b12.innerHTML = '' ;
+//カテゴリ6
