@@ -46,21 +46,21 @@ a12.innerHTML = '' ;
 //ハンバーガーメニュー12
 
 //カテゴリ
-var c1= document.getElementById("b12");
-b12.innerHTML = '' ;
+var c1= document.getElementById("c1");
+c1.innerHTML = '' ;
 //カテゴリ1
-var c2= document.getElementById("b12");
-b12.innerHTML = '' ;
+var c2= document.getElementById("c2");
+c2.innerHTML = '' ;
 //カテゴリ3
-var c3= document.getElementById("b12");
-b12.innerHTML = '' ;
+var c3= document.getElementById("c3");
+b3.innerHTML = '' ;
 //カテゴリ2
-var c4= document.getElementById("b12");
-b12.innerHTML = '' ;
+var c4= document.getElementById("c4");
+b4.innerHTML = '' ;
 //カテゴリ4
-var c5= document.getElementById("b12");
-b12.innerHTML = '' ;
+var c5= document.getElementById("c5");
+b5.innerHTML = '' ;
 //カテゴリ5
-var c6= document.getElementById("b12");
-b12.innerHTML = '' ;
+var c6= document.getElementById("c6");
+b6.innerHTML = '' ;
 //カテゴリ6
