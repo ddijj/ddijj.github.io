@@ -166,6 +166,7 @@ h2.rest {
 }
 a {
   text-decoration: none;
+  color: #0000;
 }
 
 a:hover {
