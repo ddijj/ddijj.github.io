@@ -66,3 +66,22 @@ b5.innerHTML = '' ;
 var c6= document.getElementById("c6");
 b6.innerHTML = '' ;
 //カテゴリ6
+
+var c7= document.getElementById("c7");
+c7.innerHTML = '' ;
+//カテゴリ7
+var c8= document.getElementById("c8");
+c8.innerHTML = '' ;
+//カテゴリ8
+var c9= document.getElementById("c9");
+b9.innerHTML = '' ;
+//カテゴリ9
+var c10= document.getElementById("c10");
+b10.innerHTML = '' ;
+//カテゴリ10
+var c11= document.getElementById("c11");
+b11.innerHTML = '' ;
+//カテゴリ11
+var c12= document.getElementById("c12");
+b12.innerHTML = '' ;
+//カテゴリ12
