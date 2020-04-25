@@ -1,5 +1,5 @@
 body{
-font-family: 'Consolas','Arial','Meiryo UI','ヒラギノ明朝 ProN','Hiragino Mincho ProN', 
+font-family: 'Consolas','Arial','Meiryo UI','ヒラギノ明朝 ProN','Hiragino Mincho ProN',
 }
 h1.lest
 {
@@ -50,6 +50,18 @@ ul.a, ol {
 ul.a li, ol li {
   line-height: 1.5;
   padding: 0.5em 0;
+}
+.box11{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5d627b;
+    background: white;
+    border-top: solid 5px #5d627b;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+.box11 p {
+    margin: 0;
+    padding: 0;
 }
 .box10 {
     padding: 0.5em 1em;
