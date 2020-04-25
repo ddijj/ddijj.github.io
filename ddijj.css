@@ -66,6 +66,7 @@ ul.a li, ol li {
     padding: 0;
   }
 .box11 h5{
+  display: inline;
   line-height: 2
 }
 .box10 {
