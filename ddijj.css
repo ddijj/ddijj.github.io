@@ -65,6 +65,9 @@ ul.a li, ol li {
     margin: 0;
     padding: 0;
   }
+.box11 h4{
+  display: inline;
+}
 .box11 h5{
   display: inline;
   line-height: 2
