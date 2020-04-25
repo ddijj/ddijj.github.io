@@ -16,6 +16,9 @@ h3{
   width: 50%;
   min-width: 300px;
 }
+h3.cc{
+  color: #010101;
+}
 h2.d {
   padding: 0.25em 0.5em;/*上下 左右の余白*/
   color: #494949;/*文字色*/
