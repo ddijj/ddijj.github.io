@@ -64,6 +64,7 @@ ul.a li, ol li {
 .box11 p {
     margin: 0;
     padding: 0;
+    line-height: 2
 }
 .box10 {
     padding: 0.5em 1em;
