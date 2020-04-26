@@ -51,9 +51,6 @@ ul.a li, ol li {
   line-height: 1.5;
   padding: 0.5em 0;
 }
-.dr{
-  color: #ffa500;
-}
 .box11{
     padding: 0.5em 1em;
     margin: 2em 0;
@@ -177,7 +174,6 @@ h2.rest {
 }
 a {
   text-decoration: none;
-  color: #000000;
 }
 
 a:hover {
