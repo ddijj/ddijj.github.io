@@ -64,10 +64,12 @@ ul.a li, ol li {
 .box11 p {
     margin: 0;
     padding: 0;
+    color: #000000
   }
 .box11 h4{
   display: inline;
-  line-height: 2
+  line-height: 2;
+  color: #000000
 }
 .box11 h5{
   display: inline;
