@@ -175,7 +175,9 @@ h2.rest {
 a {
   text-decoration: none;
 }
-
+.io{
+  style="color: #000000"
+}
 a:hover {
   text-decoration: underline;
 }
