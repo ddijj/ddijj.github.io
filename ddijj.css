@@ -53,6 +53,27 @@ h2.lest
   background: #eaf3ff;
   border-bottom: solid 3px #516ab6;
 }
+h4.uk {
+  position: relative;
+  padding: 5px 5px 5px 42px;
+  background: #77c3df;
+  font-size: 20px;
+  color: white;
+  margin-left: -33px;
+  line-height: 1.3;
+  z-index:-1;
+}
+
+h1:before {
+  position: absolute;
+  content: '';
+  left: -2px;
+  top: -2px;
+  border: none;
+  border-left: solid 40px white;
+  border-bottom: solid 79px transparent;
+  z-index:-2
+}
 ul.a, ol {
   color: #668ad8;
   border: double 5px #668ad8;/*二重線 太さ 色*/
