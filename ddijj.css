@@ -62,17 +62,6 @@ h4.uk {
   width: 30%;
   min-width: 260px;
 }
-
-h1:before {
-  position: absolute;
-  content: '';
-  left: -2px;
-  top: -2px;
-  border: none;
-  border-left: solid 40px white;
-  border-bottom: solid 79px transparent;
-  z-index:-2
-}
 ul.a, ol {
   color: #668ad8;
   border: double 5px #668ad8;/*二重線 太さ 色*/
