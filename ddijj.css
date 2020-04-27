@@ -99,6 +99,11 @@ ul.a li, ol li {
   line-height: 1.5
   color: #000000
 }
+.box11 h6{
+  display: inline;
+  line-height: 2;
+  color: #000000
+}
 .box10 {
     padding: 0.5em 1em;
     margin: 2em 0;
