@@ -300,6 +300,9 @@ img {
   #nav-open {
     display:none;
   }
+  .mobail {
+    display:none;
+  }
   .reft {
     display: inline-block;
     float: right;
