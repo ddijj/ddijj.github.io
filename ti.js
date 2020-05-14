@@ -53,10 +53,10 @@ c1.innerHTML = '' ;
 //カテゴリ1
 var c2= document.getElementById("c2");
 c2.innerHTML = '' ;
-//カテゴリ3
+//カテゴリ2
 var c3= document.getElementById("c3");
 b3.innerHTML = '' ;
-//カテゴリ2
+//カテゴリ3
 var c4= document.getElementById("c4");
 b4.innerHTML = '' ;
 //カテゴリ4
@@ -64,24 +64,24 @@ var c5= document.getElementById("c5");
 b5.innerHTML = '' ;
 //カテゴリ5
 var c6= document.getElementById("c6");
-b6.innerHTML = '' ;
+b6.innerHTML = 'dsa' ;
 //カテゴリ6
 
 var c7= document.getElementById("c7");
-c7.innerHTML = '' ;
+c7.innerHTML = 'dsad<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
 //カテゴリ7
 var c8= document.getElementById("c8");
-c8.innerHTML = '' ;
+c8.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
 //カテゴリ8
 var c9= document.getElementById("c9");
-b9.innerHTML = '' ;
+b9.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
 //カテゴリ9
 var c10= document.getElementById("c10");
-b10.innerHTML = '' ;
+b10.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
 //カテゴリ10
 var c11= document.getElementById("c11");
-b11.innerHTML = '' ;
+b11.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
 //カテゴリ11
 var c12= document.getElementById("c12");
-b12.innerHTML = '' ;
+b12.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
 //カテゴリ12
