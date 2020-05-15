@@ -6,7 +6,7 @@ img.innerHTML = '  <a href="https://ddijj.github.io/" class="samn"><img src="htt
 
 //ハンバーガーメニュー
 var link = document.getElementById("link");
-link.innerHTML = '<div class="up"><h2 class="rest">リンク集</h2></div><div class="nup"><div class="box10"><p><a href="https://scratch.mit.edu/users/ddijj/" style="color:#000000">筆者のScratch</a></p></div>' ;
+link.innerHTML = '<div class="up"><h2 class="rest">リンク集</h2></div><div class="nup"><div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のgithub</a></p></div>' ;
 //ハンバーガーメニュー0
 var a1 = document.getElementById("a1");
 a1.innerHTML = '<div class="box10"><p><a href="https://scratch.mit.edu/users/ddijj/" style="color:#000000">筆者のScratch</a></p></div>' ;
@@ -29,7 +29,7 @@ a6.innerHTML = '' ;
 
 
 var a7 = document.getElementById("a7");
-a7.innerHTML = '' ;
+a7.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のgithub</a></p></div>' ;
 //ハンバーガーメニュー7
 var a8 = document.getElementById("a8");
 a8.innerHTML = '' ;
