@@ -9,7 +9,7 @@ var link = document.getElementById("link");
 link.innerHTML = '<div class="up"><h2 class="rest">リンク集</h2></div><div class="nup"><div class="box10"><p><a href="https://scratch.mit.edu/users/ddijj/" style="color:#000000">筆者のScratch</a></p></div>' ;
 //ハンバーガーメニュー0
 var a1 = document.getElementById("a1");
-a1.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のGitHub</a></p></div>' ;
+a1.innerHTML = '' ;
 //ハンバーガーメニュー1
 var a2 = document.getElementById("a2");
 a2.innerHTML = '' ;
