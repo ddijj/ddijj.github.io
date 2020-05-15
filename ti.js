@@ -55,16 +55,16 @@ var c2= document.getElementById("c2");
 c2.innerHTML = '' ;
 //カテゴリ2
 var c3= document.getElementById("c3");
-b3.innerHTML = '' ;
+c3.innerHTML = '' ;
 //カテゴリ3
 var c4= document.getElementById("c4");
-b4.innerHTML = '' ;
+c4.innerHTML = '' ;
 //カテゴリ4
 var c5= document.getElementById("c5");
-b5.innerHTML = '' ;
+c5.innerHTML = '' ;
 //カテゴリ5
 var c6= document.getElementById("c6");
-b6.innerHTML = 'dsa' ;
+c6.innerHTML = '' ;
 //カテゴリ6
 
 var c7= document.getElementById("c7");
@@ -74,14 +74,14 @@ var c8= document.getElementById("c8");
 c8.innerHTML = '' ;
 //カテゴリ8
 var c9= document.getElementById("c9");
-b9.innerHTML = '' ;
+c9.innerHTML = '' ;
 //カテゴリ9
 var c10= document.getElementById("c10");
-b10.innerHTML = '' ;
+c10.innerHTML = '' ;
 //カテゴリ10
 var c11= document.getElementById("c11");
-b11.innerHTML = '' ;
+c11.innerHTML = '' ;
 //カテゴリ11
 var c12= document.getElementById("c12");
-b12.innerHTML = '' ;
+c12.innerHTML = '' ;
 //カテゴリ12
