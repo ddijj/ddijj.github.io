@@ -6,10 +6,10 @@ img.innerHTML = '  <a href="https://ddijj.github.io/" class="samn"><img src="htt
 
 //ハンバーガーメニュー
 var link = document.getElementById("link");
-link.innerHTML = '<div class="up"><h2 class="rest">リンク集</h2></div><div class="nup"><div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のgithub</a></p></div>' ;
+link.innerHTML = '<div class="up"><h2 class="rest">リンク集</h2><div class="box10"><p><a href="https://scratch.mit.edu/users/ddijj/" style="color:#000000">筆者のScratch</a></p></div></div>' ;
 //ハンバーガーメニュー0
 var a1 = document.getElementById("a1");
-a1.innerHTML = '<div class="box10"><p><a href="https://scratch.mit.edu/users/ddijj/" style="color:#000000">筆者のScratch</a></p></div>' ;
+a1.innerHTML = '<div class="nup"><div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のgithub</a></p></div>' ;
 //ハンバーガーメニュー1
 var a2 = document.getElementById("a2");
 a2.innerHTML = '' ;
@@ -49,7 +49,7 @@ a12.innerHTML = '' ;
 
 //カテゴリ
 var c1= document.getElementById("c1");
-c1.innerHTML = '' ;
+c1.innerHTML = '<div class="box10"><p><a href="https://ddijj.github.io/k-5/" style="color:#000000">PCソフト</a></p></div>' ;
 //カテゴリ1
 var c2= document.getElementById("c2");
 c2.innerHTML = '' ;
@@ -68,7 +68,7 @@ c6.innerHTML = '' ;
 //カテゴリ6
 
 var c7= document.getElementById("c7");
-c7.innerHTML = '' ;
+c7.innerHTML = '<div class="box10"><p><a href="https://ddijj.github.io/k-5/" style="color:#000000">PCソフト</a></p></div>' ;
 //カテゴリ7
 var c8= document.getElementById("c8");
 c8.innerHTML = '' ;
