@@ -32,7 +32,7 @@ var a7 = document.getElementById("a7");
 a7.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のgithub</a></p></div>' ;
 //ハンバーガーメニュー7
 var a8 = document.getElementById("a8");
-a8.innerHTML = '' ;
+a8.innerHTML = '<div class="box10"><p><a href="https://developermodoki.github.io/" style="color:#000000">Windows1000000さんのサイト</a></p></div>' ;
 //ハンバーガーメニュー8
 var a9 = document.getElementById("a9");
 a9.innerHTML = '' ;
@@ -52,7 +52,7 @@ var c1= document.getElementById("c1");
 c1.innerHTML = '<div class="box10"><p><a href="https://ddijj.github.io/k-5/" style="color:#000000">PCソフト</a></p></div>' ;
 //カテゴリ1
 var c2= document.getElementById("c2");
-c2.innerHTML = '<div class="box10"><p><a href="https://developermodoki.github.io/" style="color:#000000">Windows1000000さんのサイト</a></p></div>' ;
+c2.innerHTML = '' ;
 //カテゴリ2
 var c3= document.getElementById("c3");
 c3.innerHTML = '' ;
