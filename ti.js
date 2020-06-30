@@ -12,7 +12,7 @@ var a1 = document.getElementById("a1");
 a1.innerHTML = '<div class="nup"><div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のgithub</a></p></div>' ;
 //ハンバーガーメニュー1
 var a2 = document.getElementById("a2");
-a2.innerHTML = '<div class="box10"><p><a href="https://developermodoki.github.io/page" style="color:#000000">Windows1000000さんのサイト</a></p></div><div class="box10"><p><a href=" https://sypuhome.webnode.jp " style="color:#000000">sypuHOME-sypuさんのサイト</a></p></div>' ;
+a2.innerHTML = '<div class="box10"><p><a href="https://developermodoki.github.io/page/" style="color:#000000">Windows1000000さんのサイト</a></p></div><div class="box10"><p><a href=" https://sypuhome.webnode.jp " style="color:#000000">sypuHOME-sypuさんのサイト</a></p></div>' ;
 //ハンバーガーメニュー2
 var a3 = document.getElementById("a3");
 a3.innerHTML = '' ;
@@ -32,7 +32,7 @@ var a7 = document.getElementById("a7");
 a7.innerHTML = '<div class="box10"><p><a href="https://github.com/ddijj" style="color:#000000">筆者のgithub</a></p></div>' ;
 //ハンバーガーメニュー7
 var a8 = document.getElementById("a8");
-a8.innerHTML = '<div class="box10"><p><a href="https://developermodoki.github.io/" style="color:#000000">Windows1000000さんのサイト</a></p></div>' ;
+a8.innerHTML = '<div class="box10"><p><a href="https://developermodoki.github.io/page/" style="color:#000000">Windows1000000さんのサイト</a></p></div>' ;
 //ハンバーガーメニュー8
 var a9 = document.getElementById("a9");
 a9.innerHTML = '<div class="box10"><p><a href=" https://sypuhome.webnode.jp " style="color:#000000">sypuHOME-sypuさんのサイト</a></p></div>' ;
