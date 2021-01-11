@@ -15,7 +15,7 @@ var a2 = document.getElementById("a2");
 a2.innerHTML = '<div class="box10"><p><a href="https://developermodoki.github.io/pages/" style="color:#000000">Windows1000000さんのサイト</a></p></div><div class="box10"><p><a href=" https://sypuhome.webnode.jp " style="color:#000000">sypuHOME-sypuさんのサイト</a></p></div>' ;
 //ハンバーガーメニュー2
 var a3 = document.getElementById("a3");
-a3.innerHTML = '' ;
+a3.innerHTML = '<div class="box10"><p><a href="https://ddijj.github.io/about/" style="color:#000000">このブログについて</a></p></div>' ;
 //ハンバーガーメニュー3
 var a4 = document.getElementById("a4");
 a4.innerHTML = '' ;
@@ -38,7 +38,7 @@ var a9 = document.getElementById("a9");
 a9.innerHTML = '<div class="box10"><p><a href=" https://sypuhome.webnode.jp " style="color:#000000">sypuHOME-sypuさんのサイト</a></p></div>' ;
 //ハンバーガーメニュー9
 var a10 = document.getElementById("a10");
-a10.innerHTML = '' ;
+a10.innerHTML = '<div class="box10"><p><a href="https://ddijj.github.io/about/" style="color:#000000">このブログについて</a></p></div>' ;
 //ハンバーガーメニュー1
 var a11 = document.getElementById("a11");
 a11.innerHTML = '' ;
