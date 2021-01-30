@@ -52,7 +52,7 @@ var c1= document.getElementById("c1");
 c1.innerHTML = '<div class="box10"><p><a href="https://ddijj.github.io/k-5/" style="color:#000000">PCソフト</a></p></div>' ;
 //カテゴリ1
 var c2= document.getElementById("c2");
-c2.innerHTML = '<div class="box10"><a href="https://ddijj.github.io/k-6/" style="color: #010101;">AtCoder<a></div>' ;
+c2.innerHTML = '<div class="box10"><a href="https://ddijj.github.io/k-6/" style="color: #010101;">AtCoder<a></div><div class="box10"><a href="https://ddijj.github.io/k-7/" style="color: #010101;">javascript<a></div>' ;
 //カテゴリ2
 var c3= document.getElementById("c3");
 c3.innerHTML = '' ;
@@ -71,7 +71,7 @@ var c7= document.getElementById("c7");
 c7.innerHTML = '<div class="box10"><p><a href="https://ddijj.github.io/k-5/" style="color:#000000">PCソフト</a></p></div>' ;
 //カテゴリ7
 var c8= document.getElementById("c8");
-c8.innerHTML = '<div class="box10"><a href="https://ddijj.github.io/k-6/" style="color: #010101;">AtCoder<a></div>' ;
+c8.innerHTML = '<div class="box10"><a href="https://ddijj.github.io/k-6/" style="color: #010101;">AtCoder<a></div><div class="box10"><a href="https://ddijj.github.io/k-7/" style="color: #010101;">javascript<a></div>' ;
 //カテゴリ8
 var c9= document.getElementById("c9");
 c9.innerHTML = '' ;
