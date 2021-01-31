@@ -182,12 +182,13 @@ blockquote cite {
     font-size: 0.9em;
 }
 .reft {
+  border-radius: 10px;
   display:none;
 }
   .left{
     display: inline-block;
     float: left;
-    width: 100%
+    width: 100%;
   }
   .reft2{
     display: block;
